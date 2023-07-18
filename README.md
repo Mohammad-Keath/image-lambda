@@ -12,4 +12,8 @@
     10. then go back to the lamda and press add triger and add the s3 to it
     11. then change the permission to read for all 
   - ## a description of any issues you encountered during deployment of this lambda.
-  - ## a link to your images.json file.
+    1. I face an error that called 'Log group does not exist
+The specific log group: /aws/lambda/test does not exist in this account or region. '
+  - ## a link to your images
+    - https://testingcase.s3.amazonaws.com/linked-list-kth.png
+    ![photo](./assets/Screenshot%202023-07-18%20121055.png)
